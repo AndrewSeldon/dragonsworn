@@ -12,7 +12,7 @@
 
 ***Nargo*** - The Trolloc that abducted Nynaeve in WoP 1.1. [Facetiously coined](https://www.youtube.com/watch?v=nKUXg6hzkNo) based on him sharing iris color with WoP Narg by Dain **Bornhald#5816**.
 
-***Paitrrr*** *(aka Marrrillllllin Gemalllphin)* - [/u/chtorrr](https://np.reddit.com/u/chtorrr), the power-abusing Reddit mod that harassed r/whitecloaks for several months before effectively shutting down the subreddit. Would say things like "this is not up for debate" in response to requests for evidence of accusations. Was caught using admin privileges to modify 2022's [r/place](https://reddit.com/r/place) pixels without a cooldown mere days later. Called Paitrrr because they seem to be an inept servant of the Shadow. Called Marrrillllllin Gemalllphin because they seem to be a cat lady.
+***Paitrrr*** *(aka Marrrillllllin Gemalllphin)* - [/u/chtorrr](https://np.reddit.com/u/chtorrr), the power-abusing Reddit mod that harassed r/whitecloaks for several months before effectively shutting down the subreddit. Would say things like "this is not up for debate" in response to requests for evidence of accusations. Was caught [abusing their admin privileges](https://imgur.com/a/EAGu2K6) to modify 2022's [r/place](https://reddit.com/r/place) pixels without a cooldown mere days later. Called Paitrrr because they seem to be an inept servant of the Shadow. Called Marrrillllllin Gemalllphin because they seem to be a cat lady.
 
 ***Rafeland*** - Refers to the world of the Amazon show adaptation. Contrast with Randland, which refers to the westlands (and Aiel Waste?) in the books. Credit to [/u/danjvelker](https://reddit.com/u/danjvelker) for bringing the term to our attention.
 
