@@ -6,7 +6,7 @@
 
 # Welcome
 
-We are the Dragonsworn, allied under the Light against the forces of the Shadow. *Asha'man*, Aiel, Tairens, Cairhienens, Illianers, Band of the Red Hand soldiers, Wolf Pact liegemen, Whitecloaks under Lord Captain Commander Damodred in service to Lord Perrin Goldeneyes, renegade Taraboners, Domani, and those few true servants amongst the remnants of Masema's rabble - all are welcome beneath our roof.
+We are the Dragonsworn, allied under the Light against the forces of the Shadow. *Asha'man*, Aiel, Tairens, Cairhienens, Illianers, Mayeners, Band of the Red Hand soldiers, knelt Aes Sedai, Wolf Pact liegemen, Whitecloaks under Lord Captain Commander Damodred in service to Lord Perrin Goldeneyes, renegade Taraboners, Domani, and those few true servants amongst the remnants of Masema's rabble - all are welcome beneath our roof.
 
 Enjoy your stay, even if you number yourself amongst the Darkfans who defend Amazon's TV show adaptation, but be prepared for arguments. Be civil, and we'll get along just fine. Join us in discussing Robert "***The Creator***" Jordan's ***The Wheel of Time*** and critiquing Rafe "***Raginor***" Judkin's ***The Wheel of Prime***. Darkfans are also welcome, lest we forget that *no man may walk so long in the Shadow that he cannot come again to the Light!*
 
@@ -18,7 +18,7 @@ Enjoy your stay, even if you number yourself amongst the Darkfans who defend Ama
 
 [YouTube (Whitecloaks)](https://www.youtube.com/user/swishabc1) - **Trigger Warning:** Artistic criticism, coarse language, rampant alcoholism
 
-[Discord](https://discord.gg/sTSZJzkB5z) - **Trigger Warning:** Artistic criticism, honest discussions, [memes Tainted by the Dark One himself](https://discord.com/channels/908805376718274651/914588384217931787)
+[Band of the Red Hand](https://discord.gg/sTSZJzkB5z) Discord - **Trigger Warning:** Artistic criticism, honest discussions, [memes Tainted by the Dark One himself](https://discord.com/channels/908805376718274651/914588384217931787)
 
 [GitHub Discussions](https://github.com/AndrewSeldon/dragonsworn/discussions) - **Trigger Warning:** Artistic criticism and honest discussions
 
@@ -32,7 +32,7 @@ Check out these friends of ours:
 
 [r/BrownAjah](https://reddit.com/r/BrownAjah) - Subreddit for deeper discussions of the world and series of *The Wheel of Time*. No discussion of *The Wheel of Prime* allowed.
 
-[r/WetlanderHumor](https://reddit.com/r/WetlanderHumor) - Top-shelf, spoiler-filled subreddit for *Wheel of Time* memes and jokes.
+[r/WetlanderHumor](https://reddit.com/r/WetlanderHumor) - Spoiler-filled subreddit for top-shelf *Wheel of Time* memes and jokes.
 
 [Shadiversity](https://www.youtube.com/user/shadmbrooks) - YouTube channel with an interest in medieval and close-range combat and weaponry, among related topics.
 
@@ -84,7 +84,7 @@ There has also historically been a number of anti-r/whitecloaks Rafists who deli
 
 The Dragonsworn span the spectrum of opinions related to homosexuality (et al) in general. But most Dragonsworn don't take issue with LGBTQIA+ people (they are fans of the *Wheel of Time*, after all), but rather take exception to their perception that the sexuality of characters has been changed from the books, or that Amazon showrunner Rafe "**Raginor**" Judkin's sociopolitical leanings has been the cause of such changes.
 
-For example, the idea that Moiraine Damodred and Siuan Sanche had a physically romantic relationship, while not in direct contradiction with the books, is not explicitly supported by them. But more importantly, the idea that they had a decades-long love affaivery much ***is*** in direct contradiction with the books, which explicitly state that >!they dreamed of marrying princes as novices! Indeed, in the course of the story, ***both*** women ultimately fell in love with and married men.
+For example, the idea that Moiraine Damodred and Siuan Sanche had a physically romantic relationship, while not in direct contradiction with the books, is not explicitly supported by them. But more importantly, the idea that they had a decades-long love affair very much ***is*** in direct contradiction with the books, which explicitly state that they dreamed of marrying princes as novices! Indeed, in the course of the story, ***both*** women ultimately fell in love with and married men.
 
 Dragonsworn also take issue with the [flippant tweet by Raginor](https://mobile.twitter.com/rafejudkins/status/1144966494087987200) implying that changing the sexuality of a character is an appropriate and necessary response to the real-world behavior of some *Wheel of Time* fans.
 
@@ -92,7 +92,7 @@ Dragonsworn also take issue with the [flippant tweet by Raginor](https://mobile.
 
 >Well, if y'all aren't bigots, then why did a Reddit admin ban [r/whitecloaks](https://reddit.com/r/whitecloaks) and [r/WhitecloaksToo](https://reddit.com/r/WhitecloaksToo)?
 
-First of all, neither subreddit has been banned as of June 16 of 2022. What the admin <sup>3</sup> did was (a) remove some mods and (b) restrict permissions such that (1) only mods can post, and (2) mods can only access modmail, sticky posts, and otherwise can't take any moderator action. The removed mods also received personal suspensions or bans, mostly due to their tone and responses to the admin.
+First of all, neither subreddit has been *banned* as of July 23rd, 2022. What the admin <sup>3</sup> did was (a) remove some mods and (b) restrict permissions such that (1) only mods can post, and (2) mods can only access modmail and make posts, and otherwise can't take any moderator action. The removed mods also received personal suspensions or bans, mostly due to their tone and responses to the admin.
 
 However, none of these punitive actions were even **ostensibly** due to bigotry. In all their communications, [/u/chtorrr](https://reddit.com/u/chtorrr) never verbalized any issue with the show criticism, and they never mentioned bigotry. The only complaints were concerning perceived harassment and brigading by [r/whitecloaks](https://reddit.com/r/whitecloaks) and violation of specific rules the Admin imposed beyond the normal Reddit rules, presumably to combat the perceived brigading.
 
@@ -100,9 +100,9 @@ The admin ([/u/chtorrr](https://reddit.com/u/chtorrr)) is a known bad faith acto
 
 There was *never* any organization of harassment or brigading against other subreddits by the moderators of [r/whitecloaks](https://reddit.com/r/whitecloaks) or [r/WhitecloaksToo](https://reddit.com/r/WhitecloaksToo), and to our knowledge, there was never any significant such organization by our members. Most of the subs we were supposedly brigading against were between five and three hundred times our size. This perception of harassment comes from several things.
 
-First, subscribers of[r/whitecloaks](https://reddit.com/r/whitecloaks) were generally active members in other *Wheel of Time* subreddits and generally had been since *long* before they were [r/whitecloaks](https://reddit.com/r/whitecloaks) members.
+First, subscribers of [r/whitecloaks](https://reddit.com/r/whitecloaks) were generally active members in other *Wheel of Time* subreddits and generally had been since *long* before they were [r/whitecloaks](https://reddit.com/r/whitecloaks) members.
 
-Second, many of the more vocal critics of [r/whitecloaks](https://reddit.com/r/whitecloaks) (including some mods of r/wheeloftime and r/wotshow) used very liberal definitions of "harassment" and "brigading". As an anecdotal example, ([/u/ncsuandrew12](https://reddit.com/u/ncsuandrew12) was banned for brigading/harassment from [r/wheeloftime](https://np.reddit.com/r/wheeloftime) after his very first comment there.<sup>4</sup>
+Second, many of the more vocal critics of [r/whitecloaks](https://reddit.com/r/whitecloaks) (including some mods of r/wheeloftime and r/wotshow) used very liberal definitions of "harassment" and "brigading". As an anecdotal example, [/u/ncsuandrew12](https://reddit.com/u/ncsuandrew12) was banned for brigading/harassment from [r/wheeloftime](https://np.reddit.com/r/wheeloftime) after his very first comment there.<sup>4</sup>
 
 >But aren't the mods known to personally be bigoted white supremacists?
 
@@ -110,7 +110,7 @@ Depends on how broad your definition of "bigot" is. /u/sneedmemesanddreams did m
 
 One of the \~4 [r/whitecloaks](https://reddit.com/r/whitecloaks) mods at the time approaching the subreddit's restriction was Asian. Another mod, [/u/ncsuandrew12](https://reddit.com/u/ncsuandrew12), makes a pretty poor Nazi indeed. He's interracially married and between the 33 descendants of his and his wife's parents (and the spouses thereof), there are only 5 with any white ancestry. The others are a mix of Latino, Indian, and black. And yet not one of those individuals has expressed a negative opinion of his character, preferring instead to good-naturedly mock his nerdity.
 
-As for the alphabet soup demographic, while [/u/ncsuandrew12](https://reddit.com/u/ncsuandrew12 has opinions that would make many WoT fans angry (but which he declines to share in such forums as ours), he clarifies that (a) he bears no ill will towards anyone of any identity or orientation, and (b) a certain longtime male friend of his is attracted to other men. When they see each other, the friend almost always goes out of his way to tell Andrew he misses him and wishes he could spend more time with him and his wife, who is extremely fond of said friend. As for inceldom, Andrew and his wife are biological parents.
+As for the alphabet soup demographic, while [/u/ncsuandrew12](https://reddit.com/u/ncsuandrew12) has opinions that would make many WoT fans angry (but which he declines to share in such forums as ours), he clarifies that (a) he bears no ill will towards anyone of any identity or orientation, and (b) a certain longtime male friend of his is attracted to other men. When they see each other, the friend almost always goes out of his way to tell /u/ncsuandrew12 he misses him and wishes he could spend more time with him and his wife, who is extremely fond of said friend. As for inceldom, /u/ncsuandrew12 and his wife are biological parents.
 
 None of the Dragonsworn leadership has noted any racism from the others even in their behind-closed-doors communications. As for the alphabet soup demographic, the longest-serving [r/whitecloaks](https://reddit.com/r/whitecloaks) mod after founder /u/sneedmemesanddreams was *very* vocal in his support for them. He's a professional artist working on commission; hardly the generally accepted image of a Nazi.
 
@@ -130,9 +130,9 @@ They were not only *not* bigoted against minorities; they are perhaps the most d
 
 Whitecloak villainy came principally not from bigotry, but from their self-righteousness and overly zealous religion <sup>5</sup>, their propensity for violence, their lack of respect for the laws of the nations, their arrogance, and their assumption of condemnable guilt against those who disagree with them. Truthfully, the hardline fans of *The Wheel of Prime* bear more resemblance to the book Whitecloaks than do most of the [r/whitecloaks](https://reddit.com/r/whitecloaks) members.
 
-And [as the founder of r/whitecloaks pointed out in explaining the reasoning behind the name choice](https://discord.com/channels/908805376718274651/909920160285089893/909920464724443177), the principles of the Children of the Light were generally good and sound (as argued by noted moral authority and handsome devil Galadodred Damodred and they served a useful purpose as a foil against the power of the White Tower, but had unfortunately been greatly corrupted in their purpose and behavior. Moreover, by the end of the series, the Children were largely redeemed under Damodred's leadership.
+And [as the founder of r/whitecloaks pointed out in explaining the reasoning behind the name choice](https://discord.com/channels/908805376718274651/909920160285089893/909920464724443177), the principles of the Children of the Light were generally good and sound (as argued by noted moral authority and handsome devil Galadodred Damodred) and they served a useful purpose as a foil against the power of the White Tower, but had unfortunately been greatly corrupted in their purpose and behavior. Moreover, by the end of the series, the Children were largely redeemed under Damodred's leadership.
 
-*But all that being said*, if it were up to me ([/u/ncsuandrew12](https://reddit.com/u/ncsuandrew12), "Dragonsworn" or "The Band of the Red Hand" would have been chosen instead of Whitecloaks, hence the name here and in the [Discord](https://discord.gg/sTSZJzkB5z).
+*But all that being said*, if it were up to [/u/ncsuandrew12](https://reddit.com/u/ncsuandrew12), "Dragonsworn" or "The Band of the Red Hand" would have been chosen instead of Whitecloaks, hence the name here and in the [Discord](https://discord.gg/sTSZJzkB5z).
 
 ## Obsession with the books
 
@@ -142,7 +142,7 @@ Some of our more hardcore members notwithstanding, no. We generally acknowledge 
 
 And we reject time limitations as a catch-all defense of the show's changes, particularly in light of the first season's fifth episode's [near-total irrelevance to the story of the season](https://www.youtube.com/watch?v=FPCOoorMdy0).
 
-Nor is Covid a valid defense of many parts of the show, particularly the much-reviled first episode, [which was written pre-Covid](https://www.youtube.com/watch?v=C8QOjNSD0a8&ab_channel=BrandonSanderson). It can be a valid defense for the sparsity of crowds, but it doesn't justify, for example, the tactical idiocy of Agelmar Jagad and the rest in the first season's finale.
+Nor is Covid a valid defense of many parts of the show, particularly the much-reviled first episode, [which was written pre-Covid](https://www.youtube.com/watch?v=C8QOjNSD0a8&ab_channel=BrandonSanderson). It can be a valid defense for the sparsity of armies and crowds, but it doesn't justify, for example, the tactical idiocy of Agelmar Jagad and the rest in the first season's finale.
 
 Nor does Barney Harris' departure justify what was done to his character in the final three episodes, particularly since *both* the books **and** the show handed the writers a solution on a silver platter: the Shadar Logoth-diseased gambler could simply have been left behind in Tar Valon to be Healed or to recuperate from Healing!
 
