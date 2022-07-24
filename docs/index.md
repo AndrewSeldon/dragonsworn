@@ -146,7 +146,7 @@ Nor is Covid a valid defense of many parts of the show, particularly the much-re
 
 Nor does Barney Harris' departure justify what was done to his character in the final three episodes, particularly since *both* the books **and** the show handed the writers a solution on a silver platter: the Shadar Logoth-diseased gambler could simply have been left behind in Tar Valon to be Healed or to recuperate from Healing!
 
-Aside from all this, we assert that *The Wheel of Prime* is a terrible show even absent any knowledge from the books (and partially as a result thereof). The actors generally perform their jobs well, and some of the sets, props, costumes, and cinematography is well done. But ultimately it is all for naught thanks to atrocious writing, deplorable direction, sometimes baffling lighting, and often comical sets, costumes, and props, to say nothing of schizophrenic pacing.
+Aside from all this, we assert that *The Wheel of Prime* is a terrible show even absent any knowledge from the books (and partially as a result thereof). The actors generally perform their jobs well, and some of the sets, props, costumes, and cinematography are well done. But ultimately it is all for naught thanks to atrocious writing, deplorable direction, sometimes baffling lighting, and often comical sets, costumes, and props, to say nothing of schizophrenic pacing.
 
 We hope this has helped clarify who we are, who we are not, and what we are and are not about.
 
